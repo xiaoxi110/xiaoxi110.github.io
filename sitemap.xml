@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/child/life/index.html</loc>
+    
+    <lastmod>2017-07-20T17:10:03.988Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/child/learning/index.html</loc>
+    
+    <lastmod>2017-07-20T17:09:56.401Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/child/about/index.html</loc>
+    
+    <lastmod>2017-07-20T16:53:28.383Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/child/2017/06/03/html_bootstrap/</loc>
+    
+    <lastmod>2017-07-03T08:12:06.034Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/child/2017/06/06/ProfoundThought/</loc>
+    
+    <lastmod>2017-06-07T08:20:21.976Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/child/2017/06/05/My%20Planning/</loc>
+    
+    <lastmod>2017-06-05T10:44:15.353Z</lastmod>
+    
+  </url>
+  
+</urlset>
