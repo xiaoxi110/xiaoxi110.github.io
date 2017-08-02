@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/child/learning/html_css.html</loc>
+    
+    <lastmod>2017-08-02T02:38:39.632Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/child/learning/htmlcss.html</loc>
     
     <lastmod>2017-08-02T02:27:45.938Z</lastmod>
